@@ -7,7 +7,11 @@ I'm a Computer Science student at Sukkur IBA University, focusing on Artificial 
 
 
 ## What I'm studying
-- Machine Learning, Operating Systems, Database Management Systems, Computer Organization and Architecture, Assembly Language
+- Machine Learning,
+- Operating Systems,
+- Database Management Systems,
+- Computer Organization and Architecture,
+- Assembly Language
 
 ## Skills
 Python · Streamlit · C · C++ . Java . SQL · Git

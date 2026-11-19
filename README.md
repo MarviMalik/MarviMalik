@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Marvi 👋
 
-<!--
-**MarviMalik/MarviMalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Sukkur IBA University, focusing on Artificial Intelligence.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Leukopenia / CBC Blood Analyzer: a Streamlit app that screens blood-count values for low white-cell risk (ML course mini hackathon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm studying
+- Machine Learning, Operating Systems, Database Management Systems, Computer Organization and Architecture, Assembly Language
+
+## Skills
+Python · Streamlit · C · C++ . Java . SQL · Git
+
+## Reach me
+- LinkedIn: <https://www.linkedin.com/in/marvi-malik-ashique-ali-b44909402>
